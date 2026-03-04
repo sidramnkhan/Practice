@@ -1,6 +1,4 @@
-** start of main.py **
-
-distance_mi = 1
+distance_mi = 10
 is_raining = True
 has_bike = True
 has_car = True
@@ -26,6 +24,4 @@ elif distance_mi > 6:
         print(True)
     else:
         print(False)
-
-** end of main.py **
 
